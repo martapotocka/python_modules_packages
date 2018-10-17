@@ -1,8 +1,8 @@
-import first_module
+import module1
 
 
 print('Welcome in modules and packages test file!')
 
-first_module.function_one()
-first_module.function_two()
-first_module.function_three()
+module1.function_one()
+module1.function_two()
+module1.function_three()

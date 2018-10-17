@@ -1,1 +1,1 @@
-import new_module2
+import solution_new_module2

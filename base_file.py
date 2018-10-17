@@ -1,17 +1,11 @@
-# import first_module
-# from first_module import *
-# from first_module import function_one
-
+import module1
+# from module1 import *
+# from module1 import function_one, function_two, function_three
 
 # import name_main
 
+# function_one()    # imported from module1
+# function_two()   # imported from module1
+# function_three() # importef from module1` which is importing module2
 
-# function_one()    # imported from first_module
-# function_two()   # imported from first_module
-# function_three() # importef from first_module which is importing second_module
-
-
-
-
-# import first_module
-# print(dir(first_module)) # to use dir(module) the module must be imported
+# print('My name is: ', __name__)

@@ -1,8 +1,7 @@
-from second_module import *
+from module2 import *
 
 
 def function_one():
-    print('I am in first_module, my name is: {}'.format(__name__))
     print("I'm function_one from fist_module")
 
 
